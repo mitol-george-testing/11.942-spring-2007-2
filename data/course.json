@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ab5232ac-0acb-ff5e-5d04-b7218fa4cb0f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Regional Energy-Environmental Economic Modeling",
+  "course_description": "This subject is on regional energy-environmental modeling rather than on general energy-environmental policies, but the models should have some policy relevance. We will start with some discussion of green accounting issues; then, we will cover a variety of theoretical and empirical topics related to spatial energy demand and supply, energy forecasts, national and regional energy prices, and environmental implications of regional energy consumption and production. Where feasible, the topics will have a spatial dimension. This is a new seminar, so we expect students to contribute material to the set of readings and topics covered during the semester.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.942",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
